@@ -2,6 +2,9 @@
 
 **An interactive Excel dashboard created to analyse profit and business performance for a fictional retail company.**
 
+> **Want to build this dashboard yourself?**  
+> Watch the full step-by-step tutorial on YouTube: [Create the Velora Excel Dashboard from Scratch](https://www.youtube.com/watch?v=7vGNEj4cNwY&t=28s)
+
 ## Dashboard Preview
 
 ![Velora Excel Dashboard](dashboard-image.png)
